@@ -28,7 +28,3 @@ This project aims to perform sentiment analysis on restaurant reviews to determi
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
-## Contact
-
-For any questions or suggestions, please contact suryagadi385@gmail.com.
